@@ -10,7 +10,12 @@ A simple frontend clone of the **Myntra** website homepage built using **HTML an
 
 ## 🛠️ Tech Stack
 - HTML5
-- CSS3
+- CSS
+
+## Preview
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5bdd196a-c29b-4d9d-9fdd-3daa5afd2964" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/30eff188-37ca-4fc5-8f06-35f2a3fa360e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea56d89a-303a-4e5f-a61b-65cef52e5a17" />
 
 ## 📁 Project Structure
 myntra-clone/
