@@ -24,5 +24,13 @@ myntra-clone/
 This project is made for **educational purposes only**.  
 All brand logos, images, and names belong to their respective owners.
 
+## 📥 Clone the Repository
+
+To get a local copy of this project, run the following command:
+
+```bash
+git clone https://github.com/CodeWithShrey-collab/myntra-clone.git
+
+```
 ## 🙌 Author
 **Shreyank Nipane**
